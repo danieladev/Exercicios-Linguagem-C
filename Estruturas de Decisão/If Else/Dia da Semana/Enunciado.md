@@ -1,0 +1,2 @@
+## Exercício Dia da Semana
+Faça um algoritmo para ler o número referente a um dia da semana e imprimir a mensagem "Dia útil" ou "fim de semana", considerando que 1 = domingo, 2 = segundafeira, …, 7 = sábado. Caso o número não corresponda a um dia da semana, o algoritmo deve mostrar a mensagem "Número não corresponde a dia da semana".

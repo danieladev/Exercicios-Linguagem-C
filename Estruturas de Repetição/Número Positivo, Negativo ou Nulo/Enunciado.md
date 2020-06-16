@@ -1,0 +1,2 @@
+## Exercício Número Positivo, Negativo ou Nulo
+Faça um algoritmo que leia um valor inteiro N, a qual corresponde a quantidade de valores que serão lidos em seguida. Para cada valor lido, mostre uma mensagem dizendo se este valor é positivo, negativo ou nulo.

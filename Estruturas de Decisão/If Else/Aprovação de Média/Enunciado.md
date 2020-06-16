@@ -1,0 +1,2 @@
+## Exercício Aprovação de Média
+Faça um algoritmo que leia três notas de uma aluno, calcule a média e depois verifica se o aluno está aprovado ou reprovado. Aprovado média maior ou igual a 6, caso contrário reprovado.

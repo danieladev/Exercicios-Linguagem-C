@@ -1,0 +1,2 @@
+## Exercício Maior Número 3
+Faça um algoritmo que leia vários números não-negativos e que apresente ao final o maior de todos. O sistema termina de ler os números quando o usuário digitar qualquer número negativo.

@@ -1,0 +1,2 @@
+## Exercício Percentual de Sexo e Média de Idade
+Faça um algoritmo que leia o sexo (M/F) e a idade de 500 pessoas e que apresente ao final a porcentagem de pessoas de cada sexo e a média de idade de cada sexo.

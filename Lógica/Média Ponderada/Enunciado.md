@@ -1,0 +1,2 @@
+## Exercício Média Ponderada
+Construa um algoritmo leia três notas de um aluno e calcule e mostre a sua média, considerando que a primeira avaliação tem peso 2, a segunda tem peso 3 e a terceira tem peso 4.

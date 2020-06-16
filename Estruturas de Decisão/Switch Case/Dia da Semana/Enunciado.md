@@ -1,0 +1,2 @@
+## Exercício Dia da Semana
+Faça um algoritmo que leia um número e mostre a qual dia da semana o mesmo corresponde. Se o valor for maior do que 7 ou menor do que 1, diga “valor não corresponde a nenhum dia da semana”.
