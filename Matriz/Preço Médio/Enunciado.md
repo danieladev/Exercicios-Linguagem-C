@@ -1,0 +1,2 @@
+## Exercício Preço Médio
+Crie um algoritmo que leia os preços de 15 produtos da cesta básica, anotados em 3 lojas diferentes, em uma matriz. Ao final, exibir uma listagem com o preço médio de cada produto.

@@ -1,0 +1,3 @@
+## Exercício Adivinhar Número Gerado
+Faça um algoritmo para que um jogador adivinhe um número gerado aleatoriamente pelo computador de 0 a 99. Inicialmente, o computador gera um número (use o comando rand()%100), e depois o jogador informa números até acertar. Para ajudar, a cada tentativa o computador deve exibir a mensagem “Seu número é maior do que o meu” ou “Seu número é menor do que o meu”.
+Ao acertar, imprima o número gerado pelo computador e quantas tentativas foram necessárias para o jogador acertá-lo.

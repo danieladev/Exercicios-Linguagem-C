@@ -1,0 +1,3 @@
+## Exercício Média de Notas
+Construa um algoritmo que permita cadastrar o nome e as notas obtidas em 3 provas pelos 30 alunos de uma turma de Programação. O cadastro deve ser feito por aluno e na seguinte ordem: nome, nota1, nota2 e nota3 . Em seguida, o algoritmo deve gerar um vetor com a média das notas de cada aluno.
+Finalmente, o algoritmo deve informar o nome, as 3 notas e a média de cada aluno.
