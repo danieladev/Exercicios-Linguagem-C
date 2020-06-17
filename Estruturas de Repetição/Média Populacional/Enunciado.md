@@ -1,0 +1,2 @@
+## Exercício Média Populacional
+Escreva um programa que leia o nome e a população de várias cidades, e, ao final, indique a média populacional e o nome e a população da cidade mais populosa. O programa deve encerrar quando o usuário digitar o caractere “X” como nome de uma cidade.

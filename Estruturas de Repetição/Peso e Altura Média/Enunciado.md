@@ -1,0 +1,2 @@
+## Exercício Peso e Altura Média
+Faça um algoritmo que leia o peso e a altura de várias pessoas até que seja digitado um valor negativo para o último peso. Após a leitura dos dados, o algoritmo deve informar o peso e a altura média dos valores lidos.
