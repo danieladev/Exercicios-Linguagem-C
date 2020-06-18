@@ -1,0 +1,2 @@
+## Exercício Consultar Número
+Faça um algoritmo para cadastrar N números inteiros. No final, o algoritmo deve consultar se um número informado pelo usuário está entre os números cadastrados. Crie um módulo para cadastrar os números e outro para realizar essa consulta e informar se o número consultado está ou não cadastrado.

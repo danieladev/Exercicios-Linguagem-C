@@ -1,0 +1,2 @@
+## Exercício Média de Notas
+Escreva um algoritmo que leia o nome e as três notas de um aluno na disciplina de Programação e exiba o nome e a média do aluno. Para isso, crie um módulo,utilizando parâmetros, que realize a média de três números e exiba o resultado.

@@ -1,0 +1,2 @@
+## Exercício Número Repetido
+Faça um algoritmo para cadastrar N números inteiros. No final, o algoritmo deve informar o(s) número(s) que mais se repetem e a quantidade de vezes. Crie um módulo para cadastrar os números e outro para verificar o(s) número(s) que mais se repete(m).

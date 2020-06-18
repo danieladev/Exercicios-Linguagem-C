@@ -1,0 +1,2 @@
+## Exercício Média de Peso e Altura
+Escreva um algoritmo que cadastre os pesos e alturas de N alunos de uma turma de informática. Em seguida, o algoritmo deve calcular e exibir a média dos pesos e alturas da turma. Crie um módulo para cadastrar valores e crie outro para calcular e retornar a média de um vetor.

@@ -1,0 +1,2 @@
+## Exercício Ordenação Crescente
+Faça um algoritmo para cadastrar N números inteiros e ordená-los em ordem crescente. No final, mostre os números em ordem crescente. Crie um módulo para ordenar os elementos do vetor.
