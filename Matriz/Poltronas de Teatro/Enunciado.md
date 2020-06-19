@@ -1,0 +1,2 @@
+## Exercício Poltronas de Teatro
+Desenvolva um programa para controlar a venda de poltronas para um teatro.  Solicitar na tela a poltrona desejada pelo cliente, informando a fila (linha) e  poltrona (coluna) em questão. O teatro possui somente 10 filas com 5 poltronas em cada  fila. Na opção "sair", mostrar quais poltronas foram vendidas.

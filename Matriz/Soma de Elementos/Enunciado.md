@@ -1,0 +1,2 @@
+## Exercício Soma de Elementos
+Declare uma Matriz com 3 linhas e 3 colunas ( 3 x 3). Solicite um número inicial na tela, que será utilizado para preencher a matriz. Comece preenchendo a primeira posição da matriz com o número informado na tela. Preencha todos os campos da matriz da seguinte forma: Matriz [x][y] = o número da posição anterior + 2. Ao final, realizar a soma de todas as  posições da matriz e imprimir o valor total.

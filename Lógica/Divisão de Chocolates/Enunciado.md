@@ -1,0 +1,2 @@
+## Exercício Divisão de Chocolates
+Estela viajou para França e trouxe diversos chocolates para dividir entre os seus 4 filhos. Para evitar possíveis brigas, os chocolates deverão ser divididos em partes iguais entre seus filhos. O restante dos chocolates ficará com Estela. Desenvolva um algoritmo que ajude Estela a calcular quantos chocolates dará a cada filho e quantos deverão ficar para ela, imprimindo na tela o resultado (os chocolates não podem ser fracionados). 

@@ -1,0 +1,2 @@
+## Exercício Despesa em Viagem
+Jonas vai fazer uma viagem de férias e precisa calcular suas despesas. Crie um programa onde ele informará o valor total disponível para viajar, o valor da passagem e o número de dias da viagem. O programa deverá calcular o valor que sobrou depois de pagar a passagem, e mostrar quanto ele poderá gastar por dia, sendo que 40% deve ser destinado a hospedagem e o restante para o lazer. Imprima na tela os valores disponíveis para cada atividade.

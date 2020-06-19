@@ -1,0 +1,2 @@
+## Exercício Salário
+Desenvolva um programa, utilizando o laço FOR, para calcular o salário de 3 funcionários. Solicite na tela o nome e o salário dos funcionários. Para valores até 1.999,00 o aumento será de 10%. Para valores superiores o aumento será de 5%.  A seguir solicite o percentual de Imposto de renda. Aplique o desconto deste percentual no novo salário do funcionário. Imprima na tela o nome, salário anterior, % de aumento , salário atual, valor desconto, salário líquido dos funcionários.
